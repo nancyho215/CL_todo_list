@@ -1,5 +1,7 @@
 # 待辦清單 (Todo List)
 
+https://nancyho215.github.io/CL_todo_list/
+
 A reusable todo list for anyone who need to list his own todo items
 
 ## 功能
@@ -21,7 +23,7 @@ A reusable todo list for anyone who need to list his own todo items
 ## 如何在本機執行
 
 1. 下載或 clone 此專案
-2. 用瀏覽器開啟 `rebuild_todo.html`
+2. 用瀏覽器開啟 `index.html`
 
 ## 設計說明
 
